@@ -1,6 +1,8 @@
 # FaceSwap
 Face Swap для Windows, Python не требуется, возможно придётся скачать Microsoft Visual C++ Redistributable
 
+<b>В РАЗРАБОТКЕ</p>
+
 <b>Neo</p>
 
 <img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_2.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_2.jpg" width="256">
