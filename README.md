@@ -16,4 +16,12 @@ Face Swap Windows
 <img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_5.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_5.jpg" width="256">
 <img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/result_5.jpg" width="256">
 
+<b>Гвинет</p>
 
+<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_4.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_4.jpg" width="256">
+<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/result_4.jpg" width="256">
+
+<b>Анджелка</p>
+
+<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_3.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_3.jpg" width="256">
+<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/result_3.jpg" width="256">
