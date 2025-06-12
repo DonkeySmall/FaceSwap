@@ -1,6 +1,8 @@
 # FaceSwap
 Face Swap для Windows, Python не требуется, возможно придётся скачать Microsoft Visual C++ Redistributable
 
+https://drive.google.com/file/d/1nscdnb58YZOQWkanyRgj7zWcKaS0o7zb/view?usp=sharing
+
 <b>В РАЗРАБОТКЕ</p>
 
 <b>Neo</p>
