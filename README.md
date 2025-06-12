@@ -1,5 +1,5 @@
 # FaceSwap
-Face Swap Windows
+Face Swap для Windows, Python не требуется, возможно придётся скачать Microsoft Visual C++ Redistributable
 
 <b>Neo</p>
 
