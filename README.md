@@ -5,6 +5,21 @@ https://disk.yandex.ru/d/iq7-AzbwOdROag
 
 <b>В РАЗРАБОТКЕ</p>
 
+<b>Одни из нас</p>
+
+<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_6.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_6.jpg" width="256">
+<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/result_6.jpg" width="256">
+
+<b>Жан Как</p>
+
+<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_7.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_7.jpg" width="256">
+<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/result_7.jpg" width="256">
+
+<b>Офис</p>
+
+<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_8.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_8.jpg" width="256">
+<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/result_8.jpg" width="256">
+
 <b>Neo</p>
 
 <img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_2.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_2.jpg" width="256">
