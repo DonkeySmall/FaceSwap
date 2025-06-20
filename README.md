@@ -12,7 +12,7 @@ https://disk.yandex.ru/d/iq7-AzbwOdROag
 <img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_6.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_6.jpg" width="256">
 <img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/result_6.jpg" width="256">
 
-<b>Жан Как</p>
+<b>Какающий Жан</p>
 
 <img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_7.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_7.jpg" width="256">
 <img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/result_7.jpg" width="256">
