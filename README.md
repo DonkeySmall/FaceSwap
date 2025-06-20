@@ -1,6 +1,6 @@
 # FaceSwap
-Face Swap для Windows, пока только в низком разрешении, Python не требуется, возможно придётся скачать Microsoft Visual C++ Redistributable
-
+Face Swap для Windows, пока только в низком разрешении, Python не требуется
+Поддержка GPU
 
 https://drive.google.com/file/d/1Lsw41QzMD4GB6MmV3t1zs_KZWd3JKRZt/view?usp=sharing
 
