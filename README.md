@@ -3,6 +3,8 @@ Face Swap для Windows, пока только в низком разрешен
 
 Поддержка GPU
 
+<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/faceswap.jpg" align="middle" width="128">
+
 https://disk.yandex.ru/d/iq7-AzbwOdROag
 
 <b>В РАЗРАБОТКЕ</p>
