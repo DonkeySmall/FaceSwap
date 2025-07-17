@@ -1,5 +1,5 @@
 # FaceSwap
-Face Swap для Windows, пока только в низком разрешении, Python не требуется
+Face Swap для Windows
 
 Поддержка GPU
 
