@@ -1,8 +1,6 @@
 # FaceSwap
 Face Swap для Windows
 
-Поддержка GPU
-
 <img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/faceswap.jpg" align="middle" width="128">
 
 Скачать .zip https://disk.yandex.ru/d/iq7-AzbwOdROag
