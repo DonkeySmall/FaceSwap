@@ -1,7 +1,8 @@
 # FaceSwap
 Face Swap for windows, does not require python installation, supports GPU
 
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/faceswap.jpg" align="middle" width="128">
+<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/faceswap.jpg" align="middle" width="128"> <img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/faceswap1.jpg" align="middle" width="128">
+<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/faceswap2.jpg" align="middle" width="128">
 
 Download from Yandex Disk 373,8 МB .zip https://disk.yandex.ru/d/iq7-AzbwOdROag
 
