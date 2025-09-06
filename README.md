@@ -1,51 +1,12 @@
-# FaceSwap
-Face Swap for windows, does not require python installation, supports GPU
+# Virtual Camera
+Real-time face swap for Windows 10 - 11, does not require Python or CUDA installation, supports GPU
 
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/faceswap.jpg" align="middle" width="128"> <img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/faceswap1.jpg" align="middle" width="128">
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/faceswap2.jpg" align="middle" width="128">
+Only NVIDIA graphics cards are supported, minimum requirements memory <b>12 GB</b>
 
-Download from Yandex Disk 373,8 МB .zip https://disk.yandex.ru/d/iq7-AzbwOdROag
+<img width="588" height="498" alt="screena" src="https://github.com/user-attachments/assets/7ee4920c-86fc-4a28-9d74-c521c3ce64ae" />
 
-<b>UNDER DEVELOPMENT</p>
+Watch the video on youtube https://youtu.be/Pr4SIoCXa3Q
 
-<b>Одни из нас</p>
-
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_6.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_6.jpg" width="256">
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/result_6.jpg" width="256">
-
-<b>Какающий Жан</p>
-
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_7.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_7.jpg" width="256">
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/result_7.jpg" width="256">
-
-<b>Офис</p>
-
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_8.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_8.jpg" width="256">
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/result_8.jpg" width="256">
-
-<b>Neo</p>
-
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_2.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_2.jpg" width="256">
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/result_2.jpg" width="256">
-
-<b>Стюарт Блюм</p>
-
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_1.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_1.jpg" width="256">
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/result_1.jpg" width="256">
-
-<b>Железный Дровосек</p>
-
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_5.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_5.jpg" width="256">
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/result_5.jpg" width="256">
-
-<b>Гвинет</p>
-
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_4.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_4.jpg" width="256">
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/result_4.jpg" width="256">
-
-<b>Анджелка</p>
-
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/source_3.jpg" width="256"><img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/target_3.jpg" width="256">
-<img src="https://github.com/DonkeySmall/FaceSwap/blob/main/images/result_3.jpg" width="256">
+Download the setup program https://disk.yandex.ru/d/JYoELKtTGeu-xg - 381 МB
 
 donkey.small@yandex.ru
