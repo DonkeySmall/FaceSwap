@@ -15,6 +15,6 @@ In the settings of the video calling program or messenger, select the "SD Virtua
 
 Watch the video on youtube https://youtu.be/Pr4SIoCXa3Q
 
-Download the setup program <a href="https://www.smalldonkey.net/vcamera_setup.exe">download</a>  - 381 МB
+Download the setup program <a href="https://www.smalldonkey.net/vcamera_setup.exe">download</a> - 381 МB
 
 donkey.small@yandex.ru
