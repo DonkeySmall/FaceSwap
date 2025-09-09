@@ -3,7 +3,7 @@ Real-time video face swap for Windows 10 - 11, does not require Python or CUDA i
 
 Only NVIDIA graphics cards are supported, minimum requirements memory <b>12 GB</b>
 
-<img width="587" height="496" alt="screen" src="https://github.com/user-attachments/assets/ed3e191c-c43c-43ce-a0ec-003c014398c9" />
+<img width="532" height="450" alt="screenb" src="https://github.com/user-attachments/assets/bfa15f38-6952-4c0e-8e71-d2ca1b580bd7" />
 
 <b> </b>
  
