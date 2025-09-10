@@ -1,4 +1,5 @@
 # Virtual Camera 1.0.0.2
+
 Real-time face swap for streaming or video calls for Windows 10 - 11, does not require Python or CUDA installation
 
 Only <b>NVIDIA</b> graphics cards are supported, minimum requirements memory <b>12 GB</b>
