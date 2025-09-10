@@ -14,6 +14,12 @@ In the settings of the video calling program or messenger, select the "SD Virtua
 
 <b> </b>
 
+<b>Performance:</b> 
+<ul>
+  <li>NVIDIA RTX 3060 - 12 GB ~ 20 FPS</li>
+  <li>NVIDIA RTX 3070 - 12 GB ~ 30+ FPS</li>
+</ul>
+
 Download the setup program <a href="https://www.smalldonkey.net/vcamera_setup.exe">download</a> - 381 МB
 
 donkey.small@yandex.ru
