@@ -4,7 +4,7 @@ Real-time face swap for streaming or video calls for Windows 10 - 11, does not r
 
 Only <b>NVIDIA</b> graphics cards are supported, minimum requirements memory <b>12 GB</b>
 
-<img width="532" height="450" alt="screenb" src="https://github.com/user-attachments/assets/bfa15f38-6952-4c0e-8e71-d2ca1b580bd7" />
+![screen](https://github.com/user-attachments/assets/5107a138-5940-4fb4-b837-5a5be3ad6abf)
 
 <b> </b>
  
