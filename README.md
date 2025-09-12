@@ -10,7 +10,7 @@ Only <b>NVIDIA</b> graphics cards are supported, minimum requirements memory <b>
  
 In the settings of the video calling program or messenger, select the "SD Virtual Camera" device.
 
-<img width="378" height="298" alt="screenb" src="https://github.com/user-attachments/assets/4c01a39d-62b3-4b13-b9c8-384263c74a08" />
+<img width="378" height="298" alt="screenb" src="https://github.com/user-attachments/assets/4c01a39d-62b3-4b13-b9c8-384263c74a08"/>
 
 <b> </b>
 
