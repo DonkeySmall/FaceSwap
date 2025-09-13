@@ -16,7 +16,7 @@ In the settings of the video calling program or messenger, select the "SD Virtua
 
 <b>Performance:</b> 
 <ul>
-  <li>NVIDIA RTX 3060 - 12 GB ~ 20 FPS</li>
+  <li>NVIDIA RTX 3060 - 12 GB ~ 25 FPS</li>
   <li>NVIDIA RTX 3070 - 12 GB ~ 30+ FPS</li>
 </ul>
 
